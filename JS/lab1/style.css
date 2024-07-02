@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    margin: 50px;
+    width: 600px;
+}
+
+form{
+    margin: 16px 0;
+}
+
+form div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+}
+
+form input:not(input[type="radio"], input[type="checkbox"]){
+    width: 240px;
+    height: 28px;
+    border: 1px solid rgb(107, 107, 107);
+    border-radius: 8px;
+    padding: 8px;
+}
+
+form textarea{
+    width: 240px;
+    height: 80px;
+    border: 1px solid rgb(107, 107, 107);
+    border-radius: 8px;
+}
+
+form select{
+    width: 240px;
+    height: 28px;
+    padding: 4px;
+    border: 1px solid rgb(107, 107, 107);
+    border-radius: 8px;
+}
+
+form input[type="checkbox"]{
+    margin-right: 226px;
+}
+
+button{
+    cursor: pointer;
+    padding: 6px 14px;
+}
+
+.container-radio label{
+    margin-right: 20px;
+    margin-left: 3px;
+}
+
+.container-radio{
+    margin-right: 60px;
+}
+
+p{
+    color: rgb(212, 50, 50);
+    font-size: 14px;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="shape-container">
+            <ul>
+                <li>
+                    <span>Высота наперстка: </span>
+                    <input type="text" id="input-height">
+                </li>
+                <li>
+                    <span>Ширина наперстка: </span>
+                    <input type="text" id="input-width">
+                </li>
+                <li>
+                    <span>Диаметр наперстка: </span>
+                    <input type="text" id="input-diameter">
+                </li>
+            </ul>
+            <button id="save-btn">Сохранить</button>
+        </div>
+    
+        <div class="result-container">
+            <div class="result-field">
+                <span>Результат: </span>
+                <span id="result">0</span>
+            </div>
+    
+            <p id="result-text" class="active-p">Начни игру!</p>
+        </div>
+    </div>
+
+    <div class="game-field">
+        <div class="rects">
+            <div class="rect"></div>
+            <div class="rect"></div>
+            <div class="rect"></div>
+        </div>
+        <div class="ball" id="ball"></div>
+    </div>
+
+    <div class="restart-container">
+       <button id="restart-btn">Обновить</button> 
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

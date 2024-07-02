@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|c:\\allmine\\labs\\oop\\newnewnewshop\\lab4-5\\lab4-5\\lab4-5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\message.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\message.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\resources\\dictionaryrus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\resources\\dictionaryrus.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\resources\\dictionaryen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\resources\\dictionaryen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\cursors\\cursorcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\cursors\\cursorcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\models\\bookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\models\\bookinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\goodpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\goodpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\goodpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\goodpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\details.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\details.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\details.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\details.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\models\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\models\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\data\\bookgenre.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\data\\bookgenre.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\data\\book.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\data\\book.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\message.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBD8EE7-9E78-488D-9411-EA77930DD2F5}|lab4-5\\lab4-5.csproj|solutionrelative:lab4-5\\message.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab4-5\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab4-5\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:30:46.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab4-5\\MainWindow.xaml",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\MainWindow.xaml",
+              "RelativeToolTip": "lab4-5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T09:30:46.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Resources\\Styles.xaml",
+              "RelativeDocumentMoniker": "lab4-5\\Resources\\Styles.xaml",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Resources\\Styles.xaml",
+              "RelativeToolTip": "lab4-5\\Resources\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T09:30:46.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CursorCollection.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Cursors\\CursorCollection.cs",
+              "RelativeDocumentMoniker": "lab4-5\\Cursors\\CursorCollection.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Cursors\\CursorCollection.cs",
+              "RelativeToolTip": "lab4-5\\Cursors\\CursorCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:30:46.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DictionaryEn.xaml",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Resources\\DictionaryEn.xaml",
+              "RelativeDocumentMoniker": "lab4-5\\Resources\\DictionaryEn.xaml",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Resources\\DictionaryEn.xaml",
+              "RelativeToolTip": "lab4-5\\Resources\\DictionaryEn.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T09:30:46.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DictionaryRus.xaml",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Resources\\DictionaryRus.xaml",
+              "RelativeDocumentMoniker": "lab4-5\\Resources\\DictionaryRus.xaml",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Resources\\DictionaryRus.xaml",
+              "RelativeToolTip": "lab4-5\\Resources\\DictionaryRus.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T09:30:46.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\App.xaml",
+              "RelativeDocumentMoniker": "lab4-5\\App.xaml",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\App.xaml",
+              "RelativeToolTip": "lab4-5\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T09:30:46.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Message.xaml",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Message.xaml",
+              "RelativeDocumentMoniker": "lab4-5\\Message.xaml",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Message.xaml",
+              "RelativeToolTip": "lab4-5\\Message.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T09:30:46.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Models\\Command.cs",
+              "RelativeDocumentMoniker": "lab4-5\\Models\\Command.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Models\\Command.cs",
+              "RelativeToolTip": "lab4-5\\Models\\Command.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:30:46.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookGenre.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Models\\BookGenre.cs",
+              "RelativeDocumentMoniker": "lab4-5\\Models\\BookGenre.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Models\\BookGenre.cs",
+              "RelativeToolTip": "lab4-5\\Models\\BookGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:30:46.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "lab4-5\\Models\\Book.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Models\\Book.cs",
+              "RelativeToolTip": "lab4-5\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:30:46.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookGenre.json",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Data\\BookGenre.json",
+              "RelativeDocumentMoniker": "lab4-5\\Data\\BookGenre.json",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Data\\BookGenre.json",
+              "RelativeToolTip": "lab4-5\\Data\\BookGenre.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T09:35:38.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.json",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Data\\Book.json",
+              "RelativeDocumentMoniker": "lab4-5\\Data\\Book.json",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Data\\Book.json",
+              "RelativeToolTip": "lab4-5\\Data\\Book.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T09:30:46.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookInfo.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Models\\BookInfo.cs",
+              "RelativeDocumentMoniker": "lab4-5\\Models\\BookInfo.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Models\\BookInfo.cs",
+              "RelativeToolTip": "lab4-5\\Models\\BookInfo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:30:46.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "goodPage.xaml.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\goodPage.xaml.cs",
+              "RelativeDocumentMoniker": "lab4-5\\goodPage.xaml.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\goodPage.xaml.cs",
+              "RelativeToolTip": "lab4-5\\goodPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAABAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:30:46.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "goodPage.xaml",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\goodPage.xaml",
+              "RelativeDocumentMoniker": "lab4-5\\goodPage.xaml",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\goodPage.xaml",
+              "RelativeToolTip": "lab4-5\\goodPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T09:30:46.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.xaml.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Details.xaml.cs",
+              "RelativeDocumentMoniker": "lab4-5\\Details.xaml.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Details.xaml.cs",
+              "RelativeToolTip": "lab4-5\\Details.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:30:46.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.xaml",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Details.xaml",
+              "RelativeDocumentMoniker": "lab4-5\\Details.xaml",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Details.xaml",
+              "RelativeToolTip": "lab4-5\\Details.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T09:30:46.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Message.xaml.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Message.xaml.cs",
+              "RelativeDocumentMoniker": "lab4-5\\Message.xaml.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Message.xaml.cs",
+              "RelativeToolTip": "lab4-5\\Message.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwCgAAAAfAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhPY2SAgpb1Vww4WNh2SguwM7EyMQYL/5I95ujI\u002BAcqjRMwMsTvNAAxfPWF1cwUeKfvvvqBz1GNb7\u002BW4Ocp25ZOffTt2zewQikpKYaAgACQgTccHR3hBrMw/GUsADGO3vok9P7LH66bL76xKIuy2hiJ/pdTVFT8DjLg9\u002B/fYMVv3rz5JCkpWXHs2LELVlZW30FijAwxO8VAjHIvaR0FEc6Vi469FEm3k2CwVeFk\u002BPvjM8O/f/8YXrx4wbBp0yaGHz9\u002B/PPz87vNw8OTCDT0NMglTAxL3F\u002BBsAQf67s/f/7\u002Bq/CUZbBV42HgYmVg4ObmZuDl5WXg4uJi\u002BP//P8O7d\u002B\u002BYgAapPn/\u002BvANopwbIYiYQAQIKrM8YlDleMehJsTBwMv8D2wwDrKysDGJiYgxA5zNwcHAwAb3At2HDBhaQHDNYBRBICAtIvH7\u002BJFZPR4ubhQUuDAZsbGwMMjIyDFpaWgxKSkoMt27devH06dON165dewF3wbNnz8D4zx/MmIO5QFpaGuwKEB8G4AaQC0YNQDIAFLKMjIzgVAeMIpwYJA\u002BKKVhMgBMDCAATyHcmJqYrW7duFQYZhAuAEtjXr19vgdSD\u002BHCV9fX1LMAkKgDMPAS9xc7O/geYsD41Njb\u002BAQB9hMCogeGQ7QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-05T09:30:46.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Models\\Settings.cs",
+              "RelativeDocumentMoniker": "lab4-5\\Models\\Settings.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\newnewnewShop\\lab4-5\\lab4-5\\lab4-5\\Models\\Settings.cs",
+              "RelativeToolTip": "lab4-5\\Models\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:30:46.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+.card{
+    width: 340px;
+    height: 480px;
+    justify-self: center;
+    border: 1px solid #dbdbdb;
+    box-shadow: 5px 2px 30px #dadada;
+    border-radius: 10px;
+}
+
+.card img{
+    object-fit:cover;
+    width: 340px;
+    height: 320px;
+    margin: 0;
+    padding: 0;
+    border-radius: 10px ;
+}
+
+.card-info{
+    padding: 10px;
+}
+
+.card-info p:first-child{
+    display: inline-block;
+    margin: 0;
+    padding: 6px 18px;
+    background-color: rgb(183, 126, 236);
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 6px;
+}
+
+.card-info h3{
+    margin: 5px 0;
+}
+
+.card:hover{
+    box-shadow: 5px 2px 30px #bdbdbd;
+}
+

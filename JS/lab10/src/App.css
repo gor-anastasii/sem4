@@ -1,0 +1,84 @@
+.wrapper {
+  width: 360px;
+  height: 500px;
+  margin: 70px auto;
+  position: relative;
+}
+
+table{
+  width: 360px;
+  height: 360px;
+  border-collapse: collapse;
+  border: 2px solid #bebebe;
+  margin: 5px 0 0 0;
+}
+
+table td{
+  cursor: pointer;
+  width: calc(100% / 9);
+  height: calc(100% / 9);
+  border: 1px solid #ececec;
+  text-align: center;
+  transition: all 0.5s ease;
+}
+
+table p{
+  width: 80%;
+  height: 80%;
+  margin: 0;
+  padding: 6px 3px 3px 3px;
+  text-align: center;
+}
+
+table tr:nth-child(3n){
+  border-bottom: 2px solid #bebebe;
+}
+
+table td:nth-child(3n){
+  border-right: 2px solid #bebebe;
+}
+
+button{
+  padding: 6px 24px;
+  border: 1px solid #d1d1d1;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.check-btn{
+  position: absolute;
+  right: 0;
+}
+
+.check-btn:hover{
+  background-color: #e0e0e0;
+}
+
+.nums-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5px;
+  padding: 10px 0;
+  gap: 3px;
+}
+
+.nums-container button{
+  margin: 0;
+  border: 1px solid #bebebe;
+  border-radius: 6px;
+  background-color: white;
+  padding: 5px 12px;
+  font-weight: bold;
+  color:#5f5f5f;
+  font-size: 18px;
+  transition: all 0.3s ease;
+}
+
+.nums-container .active-btn{
+  background-color: rgb(91, 195, 255);
+  color: white;
+  border: 1px solid rgb(61, 184, 255);
+}

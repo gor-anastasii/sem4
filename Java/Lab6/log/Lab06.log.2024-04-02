@@ -1,0 +1,12 @@
+02.04.2024 22:15:13 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+02.04.2024 22:15:13 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+02.04.2024 22:15:13 [main] ERROR org.apache.log4j.chainsaw.Main  - error with connection!
+02.04.2024 22:17:51 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+02.04.2024 22:17:51 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+02.04.2024 22:17:52 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+02.04.2024 22:17:53 [main] ERROR org.apache.log4j.chainsaw.Main  - error with transaction!
+02.04.2024 22:17:53 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!
+02.04.2024 22:19:22 [main] INFO  org.apache.log4j.chainsaw.Main  - Started main
+02.04.2024 22:19:22 [main] DEBUG org.apache.log4j.chainsaw.Main  - Connection...
+02.04.2024 22:19:23 [main] INFO  org.apache.log4j.chainsaw.Main  - Connected!
+02.04.2024 22:19:23 [main] INFO  org.apache.log4j.chainsaw.Main  - connection closed!

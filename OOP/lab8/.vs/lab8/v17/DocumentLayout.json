@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AllMine\\Labs\\OOP\\lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78EFF07C-FC60-4F77-8C2E-522BFCB7575F}|lab8\\lab8.csproj|c:\\allmine\\labs\\oop\\lab8\\lab8\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EFF07C-FC60-4F77-8C2E-522BFCB7575F}|lab8\\lab8.csproj|solutionrelative:lab8\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EFF07C-FC60-4F77-8C2E-522BFCB7575F}|lab8\\lab8.csproj|c:\\allmine\\labs\\oop\\lab8\\lab8\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{78EFF07C-FC60-4F77-8C2E-522BFCB7575F}|lab8\\lab8.csproj|solutionrelative:lab8\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EFF07C-FC60-4F77-8C2E-522BFCB7575F}|lab8\\lab8.csproj|C:\\AllMine\\Labs\\OOP\\lab8\\lab8\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78EFF07C-FC60-4F77-8C2E-522BFCB7575F}|lab8\\lab8.csproj|solutionrelative:lab8\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EFF07C-FC60-4F77-8C2E-522BFCB7575F}|lab8\\lab8.csproj|c:\\allmine\\labs\\oop\\lab8\\lab8\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EFF07C-FC60-4F77-8C2E-522BFCB7575F}|lab8\\lab8.csproj|solutionrelative:lab8\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EFF07C-FC60-4F77-8C2E-522BFCB7575F}|lab8\\lab8.csproj|c:\\allmine\\labs\\oop\\lab8\\lab8\\viewmodels\\base\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EFF07C-FC60-4F77-8C2E-522BFCB7575F}|lab8\\lab8.csproj|solutionrelative:lab8\\viewmodels\\base\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab8\\lab8\\ViewModels\\Base\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "lab8\\ViewModels\\Base\\BaseViewModel.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab8\\lab8\\ViewModels\\Base\\BaseViewModel.cs",
+              "RelativeToolTip": "lab8\\ViewModels\\Base\\BaseViewModel.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:09:54.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab8\\lab8\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab8\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab8\\lab8\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab8\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAiwGQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:55:06.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab8\\lab8\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "lab8\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab8\\lab8\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "lab8\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAuwJwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:10:55.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab8\\lab8\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab8\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab8\\lab8\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "lab8\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-17T15:14:09.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab8\\lab8\\App.config",
+              "RelativeDocumentMoniker": "lab8\\App.config",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab8\\lab8\\App.config",
+              "RelativeToolTip": "lab8\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-26T08:47:13.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

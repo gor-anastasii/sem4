@@ -1,0 +1,10 @@
+.textBox{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #c5c5c5;
+    border-radius: 8px;
+}
+
+.textBox:focus{
+    outline: 1px solid #9b9b9b;
+}

@@ -1,0 +1,12 @@
+.table{
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    color: #5e5e5e;
+}
+
+.table th{
+    color: #1cacff;
+    padding: 10px;
+    border: 1px solid #555555;
+}

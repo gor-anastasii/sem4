@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AllMine\\Labs\\OOP\\lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\viewsmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\viewsmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\models\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\models\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\infrastructure\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\infrastructure\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|c:\\allmine\\labs\\oop\\lab10\\lab9\\models\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\models\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\command\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\command\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\viewsmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D3DB90-4F90-4BD0-8EB0-9A291FE92765}|lab9\\lab9.csproj|solutionrelative:lab9\\viewsmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Infrastructure\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "lab9\\Infrastructure\\IUnitOfWork.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Infrastructure\\IUnitOfWork.cs",
+              "RelativeToolTip": "lab9\\Infrastructure\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:31:03.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Models\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "lab9\\Models\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Models\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "lab9\\Models\\Data\\ApplicationContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:30:09.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "lab9\\AssemblyInfo.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\AssemblyInfo.cs",
+              "RelativeToolTip": "lab9\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:33:03.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Infrastructure\\IRepository.cs",
+              "RelativeDocumentMoniker": "lab9\\Infrastructure\\IRepository.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Infrastructure\\IRepository.cs",
+              "RelativeToolTip": "lab9\\Infrastructure\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:30:08.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Models\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "lab9\\Models\\UnitOfWork.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Models\\UnitOfWork.cs",
+              "RelativeToolTip": "lab9\\Models\\UnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:31:14.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\ViewsModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "lab9\\ViewsModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\ViewsModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "lab9\\ViewsModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAKUBAAAAAAAAAAAQwLoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:30:08.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "lab9\\Models\\Repository.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Models\\Repository.cs",
+              "RelativeToolTip": "lab9\\Models\\Repository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:30:08.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\appsettings.json",
+              "RelativeDocumentMoniker": "lab9\\appsettings.json",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\appsettings.json",
+              "RelativeToolTip": "lab9\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T09:30:09.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\App.xaml",
+              "RelativeDocumentMoniker": "lab9\\App.xaml",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\App.xaml",
+              "RelativeToolTip": "lab9\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T09:30:09.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab9\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "lab9\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T09:30:09.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\ViewsModels\\ViewModel.cs",
+              "RelativeDocumentMoniker": "lab9\\ViewsModels\\ViewModel.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\ViewsModels\\ViewModel.cs",
+              "RelativeToolTip": "lab9\\ViewsModels\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:30:09.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "lab9\\Models\\Book.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Models\\Book.cs",
+              "RelativeToolTip": "lab9\\Models\\Book.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAMwBEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:30:09.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseCommand.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Command\\BaseCommand.cs",
+              "RelativeDocumentMoniker": "lab9\\Command\\BaseCommand.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Command\\BaseCommand.cs",
+              "RelativeToolTip": "lab9\\Command\\BaseCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:30:09.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "lab9\\Models\\Author.cs",
+              "ToolTip": "C:\\AllMine\\Labs\\OOP\\lab10\\lab9\\Models\\Author.cs",
+              "RelativeToolTip": "lab9\\Models\\Author.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:30:09.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

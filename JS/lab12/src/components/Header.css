@@ -1,0 +1,25 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+    list-style: none;
+    margin: 0;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+a:hover{
+    color: rgb(223, 221, 221);
+}
+
+header{
+    background-color: rgb(183, 126, 236);
+    margin-bottom: 40px;
+    padding: 20px 0;
+}

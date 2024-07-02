@@ -1,0 +1,9 @@
+.row{
+    margin: 3px;
+    border: 1px solid #414141;
+}
+
+.row td{
+    padding: 10px;
+    border: 1px solid #a7a7a7;
+}

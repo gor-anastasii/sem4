@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h3>Заполните форму:</h3>
+        <form>
+            <div>
+                <label>Фамилия</label>
+                <input type="text" value="" id="surname">
+            </div>
+            <p id="flag-surname"></p>
+            <div>
+                <label>Имя</label>
+                <input type="text" value="" id="name">
+            </div>
+            <p id="flag-name"></p>
+            <div>
+                <label>E-mail</label>
+                <input type="text" value="" id="email">
+            </div>
+            <p id="flag-email"></p>
+            <div>
+                <label>Телефон <span>(0xx)xxx-xx-xx</span></label>
+                <input type="tel" value="" id="tel">
+            </div>
+            <p id="flag-tel"></p>
+            <div>
+                <label>Город</label>
+                <select id="select">
+                    <option>Минск</option>
+                    <option>Гомель</option>
+                    <option>Гродно</option>
+                    <option>Могилев</option>
+                    <option>Витебск</option>
+                    <option>Брест</option>
+                </select>
+            </div>
+            <div>
+                <label>Я учусь в БГТУ</label>
+                <input type="checkbox" id="check">
+            </div>
+            <div>
+                <label>На каком курсе Вы учитесь?</label>
+                <div class="container-radio">
+                    <input type="radio" name="course" id="course1"><label for="course1">1</label>
+                    <input type="radio" name="course" id="course2"><label for="course2">2</label>
+                    <input type="radio" name="course" id="course3"><label for="course3">3</label>
+                    <input type="radio" name="course" id="course4"><label for="course4">4</label>
+                </div>
+            </div>
+            <div>
+                <label>Расскажите о себе</label>
+                <textarea id="info"></textarea>
+            </div>
+            <p id="flag-info"></p>
+            <button type="submit" id="form-btn">Проверить</button>
+            <p id="confirm"></p>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
